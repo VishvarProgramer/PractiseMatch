@@ -5,4 +5,4 @@ checking conflict
 
 see the conflict now
 }
-what it got modified
+seemes only good
